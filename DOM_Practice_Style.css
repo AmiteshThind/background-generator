@@ -20,7 +20,7 @@
 /* body */
 body {
   min-height: 100vh;
-  padding: 40px;
+  padding: 30px;
 
   display: flex;
   flex-wrap: wrap;
